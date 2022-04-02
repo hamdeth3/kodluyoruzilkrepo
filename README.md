@@ -25,3 +25,9 @@ Bu başlığın altında sıralı ve sırasız liste örneklerini, kod bloğu ve
 5. Liste Elemanı 5
 
 Yukarıda *sıralı* ve *sırasız* listeleri örnekledim. Bunların kullanımında **sıralı-sırasız** farketmeksizin boşluk bırakmak elzemdir. Aksi takdirde ***liste oluşmayacaktır!s***
+
+Normalde html'de başlık vermek için;
+ 
+`<h1>Heading 1</h1>`
+
+kullanmamız gerekiyordu. Ama Markdown içeriği oluştururken **'#'** işaret ile kısaca **h1** boyutunda başlık üretebiliyoruz. 
