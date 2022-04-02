@@ -1,2 +1,4 @@
 # kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+Kodluyoruz Frontr-End Eğitimi kapsamında açtığım ilk repo
+
+## Markdown vs code görüntüsü
